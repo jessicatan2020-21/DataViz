@@ -1,14 +1,13 @@
 ---
-title: "DataViz Makeover 2"
-description: |
-  Welcome to our new blog, DataViz Makeover 2. We hope you enjoy 
-  reading what we have to say!
+title: "DataViz"
+description: 
+  "Welcome to Dataviz Blog"
 author:
   - name: Jessica Tan 
     url: https://scis.smu.edu.sg/
     affiliation: School of Computing & Information Systems, Singapore Management University
     affiliation_url: https://scis.smu.edu.sg/
-date: 06-19-2021
+date: 
 output:
   distill::distill_article:
     self_contained: false
