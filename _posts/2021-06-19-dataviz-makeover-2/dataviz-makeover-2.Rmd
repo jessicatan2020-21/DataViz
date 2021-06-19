@@ -1,7 +1,10 @@
 ---
 title: "DataViz Makeover 2"
+description: |
+
 author:
   - name: Jessica Tan
+    url: https://github.com/jessicatan2020-21/DataViz
 date: 06-19-2021
 output:
   distill::distill_article:
